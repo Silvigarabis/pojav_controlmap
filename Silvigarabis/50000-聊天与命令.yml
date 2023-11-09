@@ -1,0 +1,313 @@
+mControlDataList:
+-
+    bgColor: 1295854636
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: 1.0 * ${screen_width} - ${width}
+    dynamicY: 1.0 * ${screen_height} - ${height}
+    height: 40
+    isDynamicBtn: false
+    isHideable: false
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 257
+      - 0
+      - 0
+      - 0
+    name: Enter
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+
+mDrawerDataList:
+-
+    orientation: FREE
+    properties:
+      bgColor: 1291845632
+      cornerRadius: 0
+      displayInGame: true
+      displayInMenu: true
+      dynamicX: 0.181 * ${screen_width}
+      dynamicY: px(50) / 100.0 * ${preferred_scale}
+      height: 65
+      width: 90
+      isDynamicBtn: false
+      isHideable: true
+      isSwipeable: false
+      isToggle: false
+      keycodes:
+        - 0
+        - 0
+        - 0
+        - 0
+      name: CHATMISC
+      opacity: 1
+      passThruEnabled: false
+      strokeColor: -1
+      strokeWidth: 0
+    buttonProperties:
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 0 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 1 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 47
+          - 0
+          - 0
+          - 0
+        name: /
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 90
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 1 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+            + 0 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 0 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 258
+          - 0
+          - 0
+          - 0
+        name: TAB↓
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 65
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 1 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+            + 1 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 0 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 265
+          - 0
+          - 0
+          - 0
+        name: ↑
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 65
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 1 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+            + 2 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 0 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 340
+          - 258
+          - 0
+          - 0
+        name: TAB↑
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 65
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 1 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+            + 3 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 0 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 269
+          - 0
+          - 0
+          - 0
+        name: →|
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 65
+
+
+
+
+
+
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 1 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+            + 0 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 1 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 263
+          - 0
+          - 0
+          - 0
+        name: ←
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 65
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 1 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+            + 1 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 1 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 264
+          - 0
+          - 0
+          - 0
+        name: ↓
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 65
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 1 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+            + 2 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 1 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 262
+          - 0
+          - 0
+          - 0
+        name: →
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 65
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+            0.181 * ${screen_width}
+            + 1 * (${margin} + px(90) / 100.0 * ${preferred_scale})
+            + 3 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+            px(50) / 100.0 * ${preferred_scale}
+            + 1 * (${margin} + px(65) / 100.0 * ${preferred_scale})
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 268
+          - 0
+          - 0
+          - 0
+        name: '|←'
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 65
+mJoystickDataList: []
+scaledAt: 100
+version: 6

@@ -1,0 +1,225 @@
+mDrawerDataList: []
+mJoystickDataList: []
+scaledAt: 100
+version: 6
+mControlDataList:
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height} - 2 * ${height}
+    height: 55
+    width: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 65
+      - 87
+      - 0
+      - 0
+    name: ◸
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width} + ${width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height} - 2 * ${height}
+    height: 55
+    width: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 87
+      - 0
+      - 0
+      - 0
+    name: △
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width} + 2 * ${width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height} - 2 * ${height}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 87
+      - 68
+      - 0
+      - 0
+    name: ◹
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height} - ${height}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 65
+      - 0
+      - 0
+      - 0
+    name: ◁
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width} + ${width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height} - ${height}
+    height: 55
+    width: 55
+    passThruEnabled: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: true
+    keycodes:
+      - 340
+      - 0
+      - 0
+      - 0
+    name: ◌
+    opacity: 1
+    strokeColor: -1
+    strokeWidth: 0
+    isDynamicBtn: false
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width} + 2 * ${width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height} - ${height}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 68
+      - 0
+      - 0
+      - 0
+    name: ▷
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 83
+      - 65
+      - 0
+      - 0
+    name: ◺
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width} + ${width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 83
+      - 0
+      - 0
+      - 0
+    name: ▽
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width} + 2 * ${width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 68
+      - 83
+      - 0
+      - 0
+    name: ◿
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: ${right} - 0.04 * ${screen_width}
+    dynamicY: ${bottom} - 0.02 * ${screen_height} - ${height}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 32
+      - 0
+      - 0
+      - 0
+    name: ▣
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55

@@ -1,0 +1,275 @@
+mControlDataList:
+    
+    
+    
+    
+    
+    
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.02 * ${screen_width}
+    dynamicY: >-
+      0.98 * ${screen_height}
+      - 3 * px(55) / 100.0 * ${preferred_scale}
+      - ${margin} - ${height}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: true
+    keycodes:
+      - 340
+      - 0
+      - 0
+      - 0
+    name: |-
+      _
+      ↓
+    opacity: 1
+    passThruEnabled: true
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+       ${screen_width} * 0.02
+       + ${margin} + px(55) / 100 * ${preferred_scale}
+    dynamicY: >-
+      0.98 * ${screen_height}
+      - 3 * px(55) / 100.0 * ${preferred_scale}
+      - ${margin} - ${height}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -4
+      - 0
+      - 0
+      - 0
+    name: SEC
+    opacity: 0.8
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+       ${screen_width} * 0.02
+       + ${margin} + px(55) / 100 * ${preferred_scale}
+       + ${margin} + px(45) / 100 * ${preferred_scale}
+    dynamicY: >-
+      0.98 * ${screen_height}
+      - 3 * px(55) / 100.0 * ${preferred_scale}
+      - ${margin} - ${height}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -3
+      - 0
+      - 0
+      - 0
+    name: PRI
+    opacity: 0.79
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+    
+    
+    
+    
+    
+    
+  - bgColor: 1296450878
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: true
+    dynamicX: 1.0 * ${screen_width} - ${width}
+    dynamicY: 0.0 * ${screen_height}
+    height: 40
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -5
+      - 0
+      - 0
+      - 0
+    name: Mouse
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+  - bgColor: 1306579275
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      1.0 * ${screen_width} - (px(60.0) / 100.0 * ${preferred_scale}) - ${width}
+      - ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 40
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 292
+      - 0
+      - 0
+      - 0
+    name: Debug
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+  - bgColor: 1296622024
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      1.0 * ${screen_width} - (px(60.0) / 100.0 * ${preferred_scale}) -
+      (px(60.0) / 100.0 * ${preferred_scale}) - ${margin} - ${width} - ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 40
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 294
+      - 0
+      - 0
+      - 0
+    name: 3rd
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+  - bgColor: 1306579275
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      1.0 * ${screen_width} - (px(60.0) / 100.0 * ${preferred_scale}) -
+      (px(60.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(60.0) / 100.0 *
+      ${preferred_scale}) - ${margin} - ${width} - ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 40
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -2
+      - 0
+      - 0
+      - 0
+    name: GUI
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+  - bgColor: 1306579275
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      1.0 * ${screen_width} - (px(60.0) / 100.0 * ${preferred_scale}) -
+      (px(60.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(60.0) / 100.0 *
+      ${preferred_scale}) - ${margin} - ${width} - ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 40
+    isDynamicBtn: false
+    isHideable: false
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -2
+      - 290
+      - 0
+      - 0
+    name: GUI
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+    
+    
+    
+    
+  # - bgColor: 1296450878
+    # cornerRadius: 0
+    # displayInGame: true
+    # displayInMenu: true
+    # dynamicX: >-
+      # 1.0 * ${screen_width} - (px(60.0) / 100.0 * ${preferred_scale}) +
+      # (px(60.0) / 100.0 * ${preferred_scale}) - ${width}
+    # dynamicY: >-
+      # 1.0 * ${screen_height} - (px(40.0) /100.0 * ${preferred_scale}) -
+      # ${height} - ${margin}
+    # height: 60
+    # isDynamicBtn: false
+    # isHideable: false
+    # isSwipeable: false
+    # isToggle: false
+    # keycodes:
+      # - -5
+      # - 0
+      # - 0
+      # - 0
+    # name: Mouse
+    # opacity: 1
+    # passThruEnabled: false
+    # strokeColor: -1
+    # strokeWidth: 0
+    # width: 40
+    
+    
+  # - bgColor: 1295854636
+    # cornerRadius: 0
+    # displayInGame: false
+    # displayInMenu: true
+    # dynamicX: 1.0 * ${screen_width} - ${width}
+    # dynamicY: 1.0 * ${screen_height} - ${height}
+    # height: 40
+    # isDynamicBtn: false
+    # isHideable: false
+    # isSwipeable: false
+    # isToggle: false
+    # keycodes:
+      # - 257
+      # - 0
+      # - 0
+      # - 0
+    # name: Enter
+    # opacity: 1
+    # passThruEnabled: false
+    # strokeColor: -1
+    # strokeWidth: 0
+    # width: 60
+
+
+mDrawerDataList: []
+mJoystickDataList: []
+scaledAt: 100
+version: 6

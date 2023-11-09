@@ -1,0 +1,4435 @@
+mControlDataList:
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.6039123 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+      ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 * ${preferred_scale})
+      + ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -1
+      - 84
+      - 0
+      - 0
+    name: TALK
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 50
+  - bgColor: 889178312
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.6039123 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+      ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 * ${preferred_scale})
+      - ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+      ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 * ${preferred_scale})
+      + ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - ${width} - ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 25
+    isDynamicBtn: false
+    isHideable: false
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -2
+      - 290
+      - 0
+      - 0
+    name: GUI
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 50
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(55.0) / 100.0 *
+      ${preferred_scale}) - (px(55.0) / 100.0 * ${preferred_scale}) + (px(55.0)
+      / 100.0 * ${preferred_scale}) + ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} - (px(55.0) /100.0 * ${preferred_scale}) -
+      ${margin} - (px(45.0) /100.0 * ${preferred_scale}) - ${margin}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -4
+      - 0
+      - 0
+      - 0
+    name: SEC
+    opacity: 0.8
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: true
+    dynamicX: >-
+      (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) + (px(80.0) /
+      100.0 * ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) +
+      (px(50.0) / 100.0 * ${preferred_scale}) - (px(80.0) / 100.0 *
+      ${preferred_scale}) + (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0)
+      / 100.0 * ${preferred_scale}) + (px(50.0) / 100.0 * ${preferred_scale}) -
+      ${width}
+    dynamicY: >-
+      ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} - (px(30.0)
+      /100.0 * ${preferred_scale}) - ${margin} + (px(30.0) /100.0 *
+      ${preferred_scale}) + ${margin} - ${height} - ${margin}
+    height: 30
+    isDynamicBtn: false
+    isHideable: false
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -5
+      - 0
+      - 0
+      - 0
+    name: Mouse
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 80
+  - bgColor: 1306579275
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} + (px(45.0) / 100.0 *
+      ${preferred_scale}) + ${margin} + (px(60.0) / 100.0 * ${preferred_scale})
+      + ${margin}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} - ${height} - ${margin}
+    height: 40
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 292
+      - 0
+      - 0
+      - 0
+    name: Debug
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.6039123 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+      ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 * ${preferred_scale})
+      - ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+      ${preferred_scale}) + ${margin} - ${width} - ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 25
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: true
+    keycodes:
+      - 258
+      - 0
+      - 0
+      - 0
+    name: Tab
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 50
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} - ${width}
+      - ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 65
+      - 0
+      - 0
+      - 0
+    name: ◀
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(55.0) / 100.0 *
+      ${preferred_scale}) + ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} + (px(55.0) /100.0 * ${preferred_scale}) +
+      ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 83
+      - 0
+      - 0
+      - 0
+    name: ▼
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin}
+    height: 55.5
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 68
+      - 0
+      - 0
+      - 0
+    name: ▶
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.27296 * ${screen_width}
+    dynamicY: 1.0 * ${screen_height} - ${height}
+    height: 32.5
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 69
+      - 0
+      - 0
+      - 0
+    name: Inv
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 32.5
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(55.0) / 100.0 *
+      ${preferred_scale}) - ${width}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} - (px(55.0) /100.0 * ${preferred_scale}) -
+      ${margin} - ${height} - ${margin}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: true
+    keycodes:
+      - 340
+      - 0
+      - 0
+      - 0
+    name: |-
+      _
+      ↓
+    opacity: 1
+    passThruEnabled: true
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.7162213 * ${screen_width} - ${width}
+    dynamicY: >-
+      0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0 *
+      ${preferred_scale}) + ${margin} + (px(30.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(55.0) /100.0 * ${preferred_scale}) + ${margin} + (px(30.0)
+      /100.0 * ${preferred_scale}) + ${margin}
+    height: 32.5
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 70
+      - 0
+      - 0
+      - 0
+    name: Fs
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 32.5
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(55.0) / 100.0 * ${preferred_scale}) - ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} - ${height} - ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 87
+      - 65
+      - 0
+      - 0
+    name: ▲
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} - ${height} - ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 87
+      - 68
+      - 0
+      - 0
+    name: ▲
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} + (px(55.5) /100.0 * ${preferred_scale}) +
+      ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 83
+      - 68
+      - 0
+      - 0
+    name: ▼
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(55.0) / 100.0 * ${preferred_scale}) - ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} + (px(55.0) /100.0 * ${preferred_scale}) +
+      ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 83
+      - 65
+      - 0
+      - 0
+    name: ▼
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin} + (px(55.0) / 100.0 *
+      ${preferred_scale}) + ${margin} + (px(485.0) / 100.0 * ${preferred_scale})
+      - (px(55.0) / 100.0 * ${preferred_scale})
+    dynamicY: >-
+      0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0 *
+      ${preferred_scale}) + ${margin} + (px(30.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(55.0) /100.0 * ${preferred_scale}) + ${margin}
+    height: 20
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: true
+    keycodes:
+      - 340
+      - 0
+      - 0
+      - 0
+    name: '--'
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 889178312
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: 0.6039123 * ${screen_width} - ${width}
+    dynamicY: 0.0 * ${screen_height}
+    height: 25
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -9
+      - 0
+      - 0
+      - 0
+    name: MENU
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 50
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(55.0) / 100.0 *
+      ${preferred_scale}) - (px(55.0) / 100.0 * ${preferred_scale}) + (px(55.0)
+      / 100.0 * ${preferred_scale}) + ${margin} + (px(45.0) / 100.0 *
+      ${preferred_scale}) + ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} - (px(55.0) /100.0 * ${preferred_scale}) -
+      ${margin} - ${height} - ${margin}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -3
+      - 0
+      - 0
+      - 0
+    name: PRI
+    opacity: 0.79
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 889178312
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.6039123 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+      ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 * ${preferred_scale})
+      - ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+      ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 * ${preferred_scale})
+      + ${margin} + (px(50.0) / 100.0 * ${preferred_scale}) + ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 25
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -9
+      - 256
+      - 0
+      - 0
+    name: MENU
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 50
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.6039123 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+      ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 * ${preferred_scale})
+      - ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+      ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 * ${preferred_scale})
+      + ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 25
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 84
+      - 0
+      - 0
+      - 0
+    name: Chat
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 50
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin} - ${width} - ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} + (px(55.5) /100.0 * ${preferred_scale}) -
+      ${height}
+    height: 57
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 87
+      - 32
+      - 0
+      - 0
+    name: |-
+      ▲
+      _
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin} + (px(55.0) / 100.0 *
+      ${preferred_scale}) + ${margin} + (px(485.0) / 100.0 * ${preferred_scale})
+      - (px(55.0) / 100.0 * ${preferred_scale})
+    dynamicY: >-
+      0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0 *
+      ${preferred_scale}) + ${margin} + (px(30.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(55.0) /100.0 * ${preferred_scale}) + ${margin} - ${height}
+      - ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 340
+      - 0
+      - 0
+      - 0
+    name: ◇
+    opacity: 1
+    passThruEnabled: true
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1296622024
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} + (px(45.0) / 100.0 *
+      ${preferred_scale}) + ${margin}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} - (px(40.0) /100.0 * ${preferred_scale}) - ${margin}
+    height: 40
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 294
+      - 0
+      - 0
+      - 0
+    name: 3rd
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      1.0 * ${screen_width} - (px(80.0) / 100.0 * ${preferred_scale}) +
+      (px(80.0) / 100.0 * ${preferred_scale}) - ${width}
+    dynamicY: >-
+      1.0 * ${screen_height} - (px(30.0) /100.0 * ${preferred_scale}) -
+      ${height} - ${margin}
+    height: 80
+    isDynamicBtn: false
+    isHideable: false
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -5
+      - 0
+      - 0
+      - 0
+    name: Mouse
+    opacity: 0
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 30
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.27296 * ${screen_width} + (px(32.5) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(32.5) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(32.5) / 100.0 * ${preferred_scale}) + ${margin} - ${width} - ${margin}
+    dynamicY: 1.0 * ${screen_height} - (px(32.5) /100.0 * ${preferred_scale})
+    height: 32.5
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 69
+      - 0
+      - 0
+      - 0
+    name: Inv
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 32.5
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: 1.0 * ${screen_width} - ${width}
+    dynamicY: 1.0 * ${screen_height} - ${height}
+    height: 30
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 257
+      - 0
+      - 0
+      - 0
+    name: enter
+    opacity: 1
+    passThruEnabled: true
+    strokeColor: -1
+    strokeWidth: 0
+    width: 80
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.87047994 * ${screen_width} - ${width}
+    dynamicY: >-
+      0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0 *
+      ${preferred_scale}) + ${margin} + (px(30.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(55.0) /100.0 * ${preferred_scale}) + ${margin} + (px(30.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(30.000002) /100.0 *
+      ${preferred_scale}) + ${margin}
+    height: 30
+    isDynamicBtn: false
+    isHideable: false
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -5
+      - 0
+      - 0
+      - 0
+    name: Mouse
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 80
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.6039123 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+      ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 * ${preferred_scale})
+      - ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+      ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 * ${preferred_scale})
+      + ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin}
+    dynamicY: 0.0 * ${screen_height}
+    height: 25
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 256
+      - 0
+      - 0
+      - 0
+    name: ESC
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 50
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.6039123 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+      ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 * ${preferred_scale})
+      - ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+      (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+      ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 * ${preferred_scale})
+      + ${margin}
+    dynamicY: >-
+      0.0 * ${screen_height} + (px(25.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(55.0) /100.0 * ${preferred_scale}) + ${margin}
+    height: 50
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 67
+      - 0
+      - 0
+      - 0
+    name: C
+    opacity: 0
+    passThruEnabled: true
+    strokeColor: -1
+    strokeWidth: 0
+    width: 50
+  - bgColor: 1302728413
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} + (px(80.0) / 100.0 * ${preferred_scale}) + ${margin} +
+      (px(80.0) / 100.0 * ${preferred_scale}) - ${width}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin}
+    height: 85
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 258
+      - 0
+      - 0
+      - 0
+    name: Tab
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -8384239
+    strokeWidth: 0
+    width: 100
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) + (px(80.0) /
+      100.0 * ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+      (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+      ${preferred_scale}) - (px(45.0) / 100.0 * ${preferred_scale})
+    dynamicY: >-
+      ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0 *
+      ${preferred_scale}) + ${margin} - ${height} - ${margin}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -4
+      - 0
+      - 0
+      - 0
+    name: SEC
+    opacity: 1
+    passThruEnabled: true
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) + (px(80.0) /
+      100.0 * ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+      (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} - ${width} - ${margin}
+    dynamicY: 0.3139852 * ${screen_height}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -3
+      - 0
+      - 0
+      - 0
+    name: PRI
+    opacity: 1
+    passThruEnabled: true
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1300334307
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(55.0) / 100.0 *
+      ${preferred_scale}) - ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} + (px(55.5) /100.0 * ${preferred_scale}) -
+      (px(57.0) /100.0 * ${preferred_scale}) + (px(57.0) /100.0 *
+      ${preferred_scale}) - (px(55.0) /100.0 * ${preferred_scale}) + (px(55.0)
+      /100.0 * ${preferred_scale}) - ${height}
+    height: 60
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 341
+      - 0
+      - 0
+      - 0
+    name: CTRL
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -8384239
+    strokeWidth: 0
+    width: 65
+  - bgColor: 1300334307
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(55.0) / 100.0 *
+      ${preferred_scale}) - ${margin}
+    dynamicY: >-
+      0.8327064 * ${screen_height} - (px(55.5) /100.0 * ${preferred_scale}) +
+      (px(55.5) /100.0 * ${preferred_scale}) + ${margin} - (px(55.5) /100.0 *
+      ${preferred_scale}) - ${margin} + (px(55.5) /100.0 * ${preferred_scale}) -
+      (px(57.0) /100.0 * ${preferred_scale}) + (px(57.0) /100.0 *
+      ${preferred_scale}) - (px(55.0) /100.0 * ${preferred_scale}) - ${height} -
+      ${margin}
+    height: 60
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 340
+      - 0
+      - 0
+      - 0
+    name: SHIFT
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -8384239
+    strokeWidth: 0
+    width: 65
+  - bgColor: 16777215
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} + (px(80.0) / 100.0 * ${preferred_scale}) + ${margin} +
+      (px(80.0) / 100.0 * ${preferred_scale}) - (px(100.0) / 100.0 *
+      ${preferred_scale}) + (px(45.0) / 100.0 * ${preferred_scale}) - ${width}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(85.0) /100.0 * ${preferred_scale}) + ${margin} + (px(45.0)
+      /100.0 * ${preferred_scale}) + ${margin}
+    height: 60
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: true
+    keycodes:
+      - 340
+      - 0
+      - 0
+      - 0
+    name: +
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -8384239
+    strokeWidth: 0
+    width: 35
+  - bgColor: 16777215
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} + (px(80.0) / 100.0 * ${preferred_scale}) + ${margin} +
+      (px(80.0) / 100.0 * ${preferred_scale}) - (px(100.0) / 100.0 *
+      ${preferred_scale}) + (px(45.0) / 100.0 * ${preferred_scale}) - (px(35.0)
+      / 100.0 * ${preferred_scale})
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(85.0) /100.0 * ${preferred_scale}) + ${margin} + (px(45.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(60.0) /100.0 *
+      ${preferred_scale}) + ${margin}
+    height: 60
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: true
+    keycodes:
+      - 341
+      - 0
+      - 0
+      - 0
+    name: +
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -8384239
+    strokeWidth: 0
+    width: 35
+  - bgColor: 1293673788
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} + (px(80.0) / 100.0 * ${preferred_scale}) + ${margin} +
+      (px(80.0) / 100.0 * ${preferred_scale}) - (px(100.0) / 100.0 *
+      ${preferred_scale})
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(85.0) /100.0 * ${preferred_scale}) + ${margin}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -4
+      - 0
+      - 0
+      - 0
+    name: SEC
+    opacity: 0.8
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1308230912
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} + (px(80.0) / 100.0 * ${preferred_scale}) + ${margin} +
+      (px(80.0) / 100.0 * ${preferred_scale}) - (px(100.0) / 100.0 *
+      ${preferred_scale}) - (px(45.0) / 100.0 * ${preferred_scale}) - ${margin}
+      - ${width} - ${margin}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(85.0) /100.0 * ${preferred_scale}) + ${margin}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -3
+      - 0
+      - 0
+      - 0
+    name: PRI
+    opacity: 0.79
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1291890682
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} + (px(80.0) / 100.0 * ${preferred_scale}) + ${margin} +
+      (px(80.0) / 100.0 * ${preferred_scale}) - (px(100.0) / 100.0 *
+      ${preferred_scale}) - ${width} - ${margin}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(85.0) /100.0 * ${preferred_scale}) + ${margin}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -6
+      - 0
+      - 0
+      - 0
+    name: '-|-'
+    opacity: 0.79
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(55.0) / 100.0 *
+      ${preferred_scale}) - ${margin}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(85.0) /100.0 * ${preferred_scale}) + ${margin} + (px(45.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(60.0) /100.0 *
+      ${preferred_scale}) + ${margin} - ${height} - ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: true
+    isToggle: false
+    keycodes:
+      - 87
+      - 0
+      - 0
+      - 0
+    name: ▲
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: >-
+      0.090776496 * ${screen_width} + (px(55.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(55.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(55.0) / 100.0 * ${preferred_scale}) + ${margin} - (px(55.0) / 100.0 *
+      ${preferred_scale}) - ${margin}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin} + (px(85.0) /100.0 * ${preferred_scale}) + ${margin} + (px(45.0)
+      /100.0 * ${preferred_scale}) + ${margin} + (px(60.0) /100.0 *
+      ${preferred_scale}) + ${margin}
+    height: 55
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 32
+      - 0
+      - 0
+      - 0
+    name: ⬛
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 55
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.9749715 * ${screen_width} - ${width}
+    dynamicY: >-
+      0.38333333 * ${screen_height} - (px(50.0) /100.0 * ${preferred_scale}) -
+      ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0)
+      /100.0 * ${preferred_scale}) + ${margin} - ${height} - ${margin}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -6
+      - 0
+      - 0
+      - 0
+    name: '=|='
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: true
+    dynamicX: >-
+      0.8392054 * ${screen_width} - (px(45.0) / 100.0 * ${preferred_scale}) +
+      (px(45.0) / 100.0 * ${preferred_scale}) + ${margin} - ${width} - ${margin}
+    dynamicY: 0.05444212 * ${screen_height}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -8
+      - 0
+      - 0
+      - 0
+    name: <|-
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: true
+    dynamicX: >-
+      0.8392054 * ${screen_width} - (px(45.0) / 100.0 * ${preferred_scale}) +
+      (px(45.0) / 100.0 * ${preferred_scale}) + ${margin}
+    dynamicY: 0.05444212 * ${screen_height}
+    height: 45
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -7
+      - 0
+      - 0
+      - 0
+    name: '-|>'
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 45
+  - bgColor: 1291845632
+    cornerRadius: 0
+    displayInGame: true
+    displayInMenu: false
+    dynamicX: 0.9414985 * ${screen_width} - ${width}
+    dynamicY: 0.6532555 * ${screen_height} - ${height}
+    height: 30
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - 32
+      - 0
+      - 0
+      - 0
+    name: ⬛
+    opacity: 1
+    passThruEnabled: true
+    strokeColor: -1
+    strokeWidth: 0
+    width: 30
+  - bgColor: 1296622024
+    cornerRadius: 0
+    displayInGame: false
+    displayInMenu: true
+    dynamicX: >-
+      0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale}) +
+      ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} +
+      (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} - ${width} - ${margin}
+    dynamicY: >-
+      0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+      ${margin}
+    height: 40
+    isDynamicBtn: false
+    isHideable: true
+    isSwipeable: false
+    isToggle: false
+    keycodes:
+      - -1
+      - 0
+      - 0
+      - 0
+    name: IPT
+    opacity: 1
+    passThruEnabled: false
+    strokeColor: -1
+    strokeWidth: 0
+    width: 60
+mDrawerDataList:
+  - buttonProperties:
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} + (px(50.0) / 100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 80
+          - 0
+          - 0
+          - 0
+        name: P
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          1.0 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.38333333 * ${screen_height} - (px(50.0) /100.0 * ${preferred_scale})
+          - ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 82
+          - 0
+          - 0
+          - 0
+        name: R
+        opacity: 1
+        passThruEnabled: true
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          1.0 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.38333333 * ${screen_height} - (px(50.0) /100.0 * ${preferred_scale})
+          - ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 77
+          - 0
+          - 0
+          - 0
+        name: M
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 67
+          - 0
+          - 0
+          - 0
+        name: C
+        opacity: 1
+        passThruEnabled: true
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 74
+          - 0
+          - 0
+          - 0
+        name: J
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin}
+        dynamicY: >-
+          0.18333334 * ${screen_height} - (px(30.0) /100.0 * ${preferred_scale})
+          - ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 72
+          - 0
+          - 0
+          - 0
+        name: H
+        opacity: 1
+        passThruEnabled: true
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${width} - ${margin}
+        dynamicY: ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 71
+          - 0
+          - 0
+          - 0
+        name: G
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 81
+          - 0
+          - 0
+          - 0
+        name: Q
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 85
+          - 0
+          - 0
+          - 0
+        name: U
+        opacity: 1
+        passThruEnabled: true
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin}
+        dynamicY: >-
+          0.18333334 * ${screen_height} - (px(30.0) /100.0 * ${preferred_scale})
+          - ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 86
+          - 0
+          - 0
+          - 0
+        name: V
+        opacity: 1
+        passThruEnabled: true
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.18333334 * ${screen_height} - (px(30.0) /100.0 * ${preferred_scale})
+          - ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 75
+          - 0
+          - 0
+          - 0
+        name: K
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin}
+        dynamicY: >-
+          ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 73
+          - 0
+          - 0
+          - 0
+        name: I
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin}
+        dynamicY: >-
+          ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 75
+          - 0
+          - 0
+          - 0
+        name: K
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          1.0 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.38333333 * ${screen_height} - (px(50.0) /100.0 * ${preferred_scale})
+          - ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 66
+          - 0
+          - 0
+          - 0
+        name: B
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          1.0 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale}) -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.38333333 * ${screen_height} - (px(50.0) /100.0 * ${preferred_scale})
+          - ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 78
+          - 0
+          - 0
+          - 0
+        name: 'N'
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) +
+          (px(80.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.18333334 * ${screen_height} - (px(30.000002) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 50
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 76
+          - 0
+          - 0
+          - 0
+        name: L
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+    orientation: FREE
+    properties:
+      bgColor: 1291845632
+      cornerRadius: 0
+      displayInGame: true
+      displayInMenu: true
+      dynamicX: >-
+        (${screen_width} - (px(80.0) / 100.0 * ${preferred_scale})) + (px(80.0)
+        / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale})
+        + (px(50.0) / 100.0 * ${preferred_scale}) - (px(80.0) / 100.0 *
+        ${preferred_scale}) + (px(80.0) / 100.0 * ${preferred_scale}) - ${width}
+      dynamicY: >-
+        ${margin} + (px(30.0) /100.0 * ${preferred_scale}) + ${margin} -
+        (px(30.0) /100.0 * ${preferred_scale}) - ${margin} + (px(30.0) /100.0 *
+        ${preferred_scale}) + ${margin}
+      height: 50
+      isDynamicBtn: false
+      isHideable: true
+      isSwipeable: false
+      isToggle: false
+      keycodes:
+        - 0
+        - 0
+        - 0
+        - 0
+      name: MORE
+      opacity: 1
+      passThruEnabled: false
+      strokeColor: -1
+      strokeWidth: 0
+      width: 50
+  - buttonProperties:
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 81
+          - 0
+          - 0
+          - 0
+        name: Q
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 87
+          - 0
+          - 0
+          - 0
+        name: W
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 69
+          - 0
+          - 0
+          - 0
+        name: E
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 82
+          - 0
+          - 0
+          - 0
+        name: R
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 80
+          - 0
+          - 0
+          - 0
+        name: P
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 84
+          - 0
+          - 0
+          - 0
+        name: T
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 68
+          - 0
+          - 0
+          - 0
+        name: D
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 79
+          - 0
+          - 0
+          - 0
+        name: O
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 73
+          - 0
+          - 0
+          - 0
+        name: I
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 85
+          - 0
+          - 0
+          - 0
+        name: U
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 89
+          - 0
+          - 0
+          - 0
+        name: 'Y'
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 71
+          - 0
+          - 0
+          - 0
+        name: G
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 90
+          - 0
+          - 0
+          - 0
+        name: Z
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 75
+          - 0
+          - 0
+          - 0
+        name: K
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 72
+          - 0
+          - 0
+          - 0
+        name: H
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 74
+          - 0
+          - 0
+          - 0
+        name: J
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 70
+          - 0
+          - 0
+          - 0
+        name: F
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 83
+          - 0
+          - 0
+          - 0
+        name: S
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 65
+          - 0
+          - 0
+          - 0
+        name: A
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 76
+          - 0
+          - 0
+          - 0
+        name: L
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 86
+          - 0
+          - 0
+          - 0
+        name: V
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 78
+          - 0
+          - 0
+          - 0
+        name: 'N'
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 66
+          - 0
+          - 0
+          - 0
+        name: B
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 77
+          - 0
+          - 0
+          - 0
+        name: M
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 67
+          - 0
+          - 0
+          - 0
+        name: C
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 88
+          - 0
+          - 0
+          - 0
+        name: X
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 32.5
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) +
+          (px(50.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(200.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          (px(45.0) / 100.0 * ${preferred_scale}) - ${margin} - ${width} -
+          ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 341
+          - 0
+          - 0
+          - 0
+        name: CTRL
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 55
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 340
+          - 0
+          - 0
+          - 0
+        name: SHIFT
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) +
+          (px(50.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(200.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          ${width} - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 342
+          - 0
+          - 0
+          - 0
+        name: ALT
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 45
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) +
+          (px(50.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 32
+          - 0
+          - 0
+          - 0
+        name: ''
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 200
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 258
+          - 0
+          - 0
+          - 0
+        name: TAB
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 40
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 340
+          - 0
+          - 0
+          - 0
+        name: TAB
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 35
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) +
+          (px(50.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${width} - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 346
+          - 0
+          - 0
+          - 0
+        name: ALT
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) +
+          (px(50.0) / 100.0 * ${preferred_scale}) - ${width}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 345
+          - 0
+          - 0
+          - 0
+        name: CTRL
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 257
+          - 0
+          - 0
+          - 0
+        name: ENTER
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 55
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(25.5) / 100.0 *
+          ${preferred_scale}) - ${width}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 32.5
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 344
+          - 0
+          - 0
+          - 0
+        name: SHIFT
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 115
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 65
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 257
+          - 0
+          - 0
+          - 0
+        name: ''
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 25.5
+    orientation: FREE
+    properties:
+      bgColor: 1294321970
+      cornerRadius: 0
+      displayInGame: true
+      displayInMenu: true
+      dynamicX: >-
+        0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale})
+        + ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin} +
+        (px(50.0) / 100.0 * ${preferred_scale}) + ${margin}
+      dynamicY: >-
+        0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+        ${margin} - ${height} - ${margin}
+      height: 40
+      isDynamicBtn: false
+      isHideable: true
+      isSwipeable: false
+      isToggle: false
+      keycodes:
+        - 0
+        - 0
+        - 0
+        - 0
+      name: KB
+      opacity: 1
+      passThruEnabled: false
+      strokeColor: -1
+      strokeWidth: 0
+      width: 45
+  - buttonProperties:
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.7162213 * ${screen_width} - (px(32.5) / 100.0 * ${preferred_scale})
+          + (px(50.0) / 100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+          ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 30.000002
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 342
+          - 72
+          - 0
+          - 0
+        name: HID
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: 0.7162213 * ${screen_width} - (px(32.5) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+          0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+          ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 30.000002
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 342
+          - 85
+          - 0
+          - 0
+        name: USE
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: 0.7162213 * ${screen_width} - (px(32.5) / 100.0 * ${preferred_scale})
+        dynamicY: >-
+          0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+          ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(30.0) /100.0 *
+          ${preferred_scale}) - ${margin} - ${height} - ${margin}
+        height: 30.000002
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 342
+          - 82
+          - 0
+          - 0
+        name: REP
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.7162213 * ${screen_width} - (px(32.5) / 100.0 * ${preferred_scale})
+          + (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+          ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 30.000002
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 342
+          - 66
+          - 0
+          - 0
+        name: BACK
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.7162213 * ${screen_width} - (px(32.5) / 100.0 * ${preferred_scale})
+          + (px(50.0) / 100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /
+          100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+          ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 30.000002
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 342
+          - 44
+          - 0
+          - 0
+        name: RB
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.7162213 * ${screen_width} - (px(32.5) / 100.0 * ${preferred_scale})
+          + (px(50.0) / 100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+          ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 30.000002
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 342
+          - 46
+          - 0
+          - 0
+        name: PR
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.7162213 * ${screen_width} - (px(32.5) / 100.0 * ${preferred_scale})
+          + (px(50.0) / 100.0 * ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.0 * ${screen_height} + (px(50.0) /100.0 * ${preferred_scale}) +
+          ${margin} + (px(50.0) /100.0 * ${preferred_scale}) + ${margin} +
+          (px(50.0) /100.0 * ${preferred_scale}) + ${margin} + (px(50.0) /100.0
+          * ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(30.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(30.0) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(30.0) /100.0 *
+          ${preferred_scale}) - ${margin}
+        height: 30.000002
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 342
+          - 65
+          - 0
+          - 0
+        name: LK
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+    orientation: FREE
+    properties:
+      bgColor: 1291845632
+      cornerRadius: 0
+      displayInGame: false
+      displayInMenu: true
+      dynamicX: >-
+        0.7162213 * ${screen_width} - (px(32.5) / 100.0 * ${preferred_scale}) -
+        (px(45.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(45.0) / 100.0
+        * ${preferred_scale}) + ${margin}
+      dynamicY: >-
+        0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale}) -
+        (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+        ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale}) - (px(35.0)
+        /100.0 * ${preferred_scale}) - ${margin} - (px(70.0) /100.0 *
+        ${preferred_scale}) - ${margin} + (px(70.0) /100.0 * ${preferred_scale})
+        + ${margin} + (px(35.0) /100.0 * ${preferred_scale}) + ${margin} +
+        (px(35.0) /100.0 * ${preferred_scale}) + ${margin} + (px(45.0) /100.0 *
+        ${preferred_scale}) - ${height}
+      height: 30
+      isDynamicBtn: false
+      isHideable: true
+      isSwipeable: false
+      isToggle: false
+      keycodes:
+        - 0
+        - 0
+        - 0
+        - 0
+      name: JEI
+      opacity: 1
+      passThruEnabled: false
+      strokeColor: -1
+      strokeWidth: 0
+      width: 50
+  - buttonProperties:
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - ${height} -
+          ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 45
+          - 0
+          - 0
+          - 0
+        name: '-'
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 61
+          - 0
+          - 0
+          - 0
+        name: '='
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin} - ${height} - ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 334
+          - 0
+          - 0
+          - 0
+        name: +
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 96
+          - 0
+          - 0
+          - 0
+        name: ↓
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.015776495 * ${screen_width} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale})
+          + ${margin} + (px(35.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: true
+        keycodes:
+          - 342
+          - 0
+          - 0
+          - 0
+        name: ALT
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.015776495 * ${screen_width} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale})
+          + ${margin} + (px(35.0) /100.0 * ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: true
+        keycodes:
+          - 341
+          - 0
+          - 0
+          - 0
+        name: CTRL
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1305226284
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.015776495 * ${screen_width} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin}
+        dynamicY: >-
+          0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale})
+          + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 256
+          - 0
+          - 0
+          - 0
+        name: '|<|'
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1298519779
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.015776495 * ${screen_width} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale})
+          + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 284
+          - 0
+          - 0
+          - 0
+        name: '||'
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(40.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(55.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) +
+          (px(50.0) / 100.0 * ${preferred_scale}) - (px(50.0) / 100.0 *
+          ${preferred_scale}) - (px(50.0) / 100.0 * ${preferred_scale}) -
+          ${margin} - (px(200.0) / 100.0 * ${preferred_scale}) - ${margin} -
+          (px(45.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(55.0) /
+          100.0 * ${preferred_scale}) - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(32.5)
+          /100.0 * ${preferred_scale}) - ${margin} - (px(35.0) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} - (px(32.5) /100.0 *
+          ${preferred_scale}) - ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(32.5) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 290
+          - 0
+          - 0
+          - 0
+        name: F1
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - ${height} - ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 291
+          - 0
+          - 0
+          - 0
+        name: F2
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 292
+          - 0
+          - 0
+          - 0
+        name: F3
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 300
+          - 0
+          - 0
+          - 0
+        name: F11
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 301
+          - 0
+          - 0
+          - 0
+        name: F12
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - ${width} -
+          ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - ${height}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 298
+          - 0
+          - 0
+          - 0
+        name: F9
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 294
+          - 0
+          - 0
+          - 0
+        name: F5
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 295
+          - 0
+          - 0
+          - 0
+        name: F6
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 297
+          - 0
+          - 0
+          - 0
+        name: F8
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin} + (px(35.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 299
+          - 0
+          - 0
+          - 0
+        name: F10
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} - (px(50.0) /
+          100.0 * ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(50.0) / 100.0 *
+          ${preferred_scale}) + ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 296
+          - 0
+          - 0
+          - 0
+        name: F7
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} + (px(31.0) / 100.0 *
+          ${preferred_scale}) + ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - (px(70.0)
+          /100.0 * ${preferred_scale}) - ${margin} + (px(70.0) /100.0 *
+          ${preferred_scale}) + ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - 293
+          - 0
+          - 0
+          - 0
+        name: F4
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - ${width} - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin}
+        height: 70
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: false
+        keycodes:
+          - -6
+          - 0
+          - 0
+          - 0
+        name: '-+-'
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 31
+      - bgColor: 1291845632
+        cornerRadius: 0
+        displayInGame: true
+        displayInMenu: true
+        dynamicX: >-
+          0.5862768 * ${screen_width} - (px(50.0) / 100.0 * ${preferred_scale})
+          - (px(31.0) / 100.0 * ${preferred_scale}) - ${margin} + (px(31.0) /
+          100.0 * ${preferred_scale}) + ${margin} - (px(31.0) / 100.0 *
+          ${preferred_scale}) - ${margin} - (px(50.0) / 100.0 *
+          ${preferred_scale}) - ${margin}
+        dynamicY: >-
+          0.8802705 * ${screen_height} - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} + (px(70.0)
+          /100.0 * ${preferred_scale}) - (px(35.0) /100.0 * ${preferred_scale})
+          - (px(35.0) /100.0 * ${preferred_scale}) - ${margin} - ${height} -
+          ${margin}
+        height: 35
+        isDynamicBtn: false
+        isHideable: true
+        isSwipeable: false
+        isToggle: true
+        keycodes:
+          - 32
+          - 0
+          - 0
+          - 0
+        name: 正方
+        opacity: 1
+        passThruEnabled: false
+        strokeColor: -1
+        strokeWidth: 0
+        width: 50
+    orientation: FREE
+    properties:
+      bgColor: 1294321970
+      cornerRadius: 0
+      displayInGame: true
+      displayInMenu: true
+      dynamicX: >-
+        0.015776495 * ${screen_width} + (px(50.0) / 100.0 * ${preferred_scale})
+        + ${margin} - (px(50.0) / 100.0 * ${preferred_scale}) - ${margin}
+      dynamicY: >-
+        0.01604166 * ${screen_height} + (px(40.0) /100.0 * ${preferred_scale}) +
+        ${margin} - ${height} - ${margin}
+      height: 40
+      isDynamicBtn: false
+      isHideable: true
+      isSwipeable: false
+      isToggle: false
+      keycodes:
+        - 0
+        - 0
+        - 0
+        - 0
+      name: PANEL
+      opacity: 1
+      passThruEnabled: false
+      strokeColor: -1
+      strokeWidth: 0
+      width: 50
+mJoystickDataList: []
+scaledAt: 100
+version: 6
